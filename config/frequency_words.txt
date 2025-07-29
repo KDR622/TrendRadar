@@ -37,16 +37,6 @@ google
 gemini
 deepmind
 
-苹果
-库克
-iphone
-ipad
-mac
-ios
-
-汽车
-自动驾驶
-
 手机
 
 国产
@@ -54,14 +44,9 @@ ios
 
 美国
 
-芯片
-光刻机
-
 科技
 
 核能
-
-新质生产力
 
 月球
 登月

@@ -47,6 +47,10 @@ weight:
   hotness_weight: 0.1 # 热度权重
 
 platforms:
+  - id: "ithome"
+    name: "IT之家"
+  - id: "nowcoder"
+    name: "牛客"
   - id: "toutiao"
     name: "今日头条"
   - id: "baidu"

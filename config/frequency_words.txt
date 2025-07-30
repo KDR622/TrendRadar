@@ -3,9 +3,6 @@ chatgpt
 DeepSeek
 claude
 
-Anthropic
-Sam Altman
-
 ai
 !gai
 人工智能
